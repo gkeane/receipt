@@ -18,7 +18,7 @@
   </ul>
   <div class="sig sigWrapper">
     <div class="typed"></div>
-    <canvas class="pad" width="198" height="55"></canvas>
+    <canvas class="pad" width="598" height="149"></canvas>
     <input type="hidden" name="output" class="output">
   </div>
   <button type="submit">I accept the terms of this agreement.</button>
