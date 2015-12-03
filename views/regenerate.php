@@ -5,7 +5,7 @@
 <div class="sigPad signed">
   <div class="sigWrapper">
   <div class="typed"><?php echo htmlentities($name, ENT_NOQUOTES, 'UTF-8'); ?></div>
-    <canvas class="pad" width="198" height="55"></canvas>
+    <canvas class="pad" width="598" height="150"></canvas>
   </div>
   <p><?php echo htmlentities($name, ENT_NOQUOTES, 'UTF-8'); ?><br><?php echo date('F j, Y', $created); ?></p>
 </div>
